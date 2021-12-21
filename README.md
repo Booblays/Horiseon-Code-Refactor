@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
@@ -44,3 +45,8 @@ You are required to submit the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+I was tasked by Horiseon to refactor the code of their website. The code is running as it should but could use some optimization. There are many redundant attributes that can be
+simplified down to one feature. My job will be to condense any redundant features as well as make the code more readable for my employer without changing how the site looks or 
+works. By the end of this project we should have a well optimized and fully ready webpage to represent Horiseon Search Optimization.
+>>>>>>> c21e133fb6cbcc7e86df2f49866d9f893526aa6b
