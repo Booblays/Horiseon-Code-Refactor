@@ -1,3 +1,4 @@
+/* defalt background/settings */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,6 +14,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* company name/link */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +48,7 @@ body {
     margin-left: 25px;
 }
 
+/* hero picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +57,7 @@ body {
     background-position: center;
 }
 
+/* services section */
 p {
     font-size: 16px;
 }
@@ -92,6 +96,7 @@ p {
     margin-left: 25px;
 }
 
+/* service benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +124,7 @@ h3 {
     max-width: 150px;
 }
 
+/* credit section */
 .footer {
     padding: 30px;
     clear: both;
