@@ -50,6 +50,8 @@ My project was to refactor Horiseon main webpage
 
 I started by getting rid of redundent properties within the HTML and CSS code
 
+I debugged one of the the links that wasn't working
+
 Then I reorganized the the stucture of the code and added comments to better read what every section is doing
 
 After that I moved onto changing the section tags in HTML to relevent tags and changed their counterpart in CSS to match
