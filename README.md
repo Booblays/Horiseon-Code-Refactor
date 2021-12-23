@@ -46,7 +46,18 @@ You are required to submit the following for review:
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 =======
-I was tasked by Horiseon to refactor the code of their website. The code is running as it should but could use some optimization. There are many redundant attributes that can be
-simplified down to one feature. My job will be to condense any redundant features as well as make the code more readable for my employer without changing how the site looks or 
-works. By the end of this project we should have a well optimized and fully ready webpage to represent Horiseon Search Optimization.
+My project was to refactor Horiseon main webpage
+
+I started by getting rid of redundent properties within the HTML and CSS code
+
+Then I reorganized the the stucture of the code and added comments to better read what every section is doing
+
+After that I moved onto changing the section tags in HTML to relevent tags and changed their counterpart in CSS to match
+
+Once that was done I added alt discriptons for loading errors and screen readers
+
+finaly I changed the title to a more descriptive page title
+
+By the end we have a cleaner and more optimized code without changing how the page displays or works with better
+ long-term sustainability
 >>>>>>> c21e133fb6cbcc7e86df2f49866d9f893526aa6b
